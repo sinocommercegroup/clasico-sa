@@ -1,0 +1,66 @@
+{
+  "id": 8525437173933,
+  "handle": "chrono-shadow",
+  "title": "كرونو شادو",
+  "title_en": "Chrono Shadow",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أسترونوفا"
+  ],
+  "categories_en": [
+    "ASTRONOVA"
+  ],
+  "url": "https://clasicowatches.com/products/chrono-shadow",
+  "description_text": "كرونو شادو هي عمق الفراغ. مستوحاةً من الصمت المطلق لأعماق الفضاء، يأتي هذا الكرونوغراف الأسود والفضي خفيّاً وحازماً. إنه أداة تركيزٍ لمن يبحرون في المجهول ويرسمون طريقهم بأنفسهم. بيانٌ أحادي اللون لا تشوبه شائبة، يسيطر على العتمة.",
+  "body_html": "<div dir=\"rtl\"><p>كرونو شادو هي عمق الفراغ. مستوحاةً من الصمت المطلق لأعماق الفضاء، يأتي هذا الكرونوغراف الأسود والفضي خفيّاً وحازماً. إنه أداة تركيزٍ لمن يبحرون في المجهول ويرسمون طريقهم بأنفسهم. بيانٌ أحادي اللون لا تشوبه شائبة، يسيطر على العتمة.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45822884511917,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1501M3002",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8525437173933,
+      "created_at": "2026-03-15T20:12:28+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/chrono-shadow/images/01_chrono-shadow.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Chrono_Shadow_watch_from_the_Astronova_Collection_3-subdial_black_dial_stainless_steel_case_and_Elite_Y121_chronograph_movement..png?v=1776347464"
+    },
+    {
+      "file": "../../../clasico_scrape/products/chrono-shadow/images/02_chrono-shadow.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Chrono_Shadow_men_s_chronograph_black_dial_with_silver_outer_ring_and_premium_waterproof_stainless_steel_bracelet..png?v=1776347487"
+    },
+    {
+      "file": "../../../clasico_scrape/products/chrono-shadow/images/03_chrono-shadow.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Chrono_Shadow_stopwatch_timepiece_with_Elite_Y121_caliber_movement_and_waterproof_stainless_steel_design..png?v=1776347513"
+    },
+    {
+      "file": "../../../clasico_scrape/products/chrono-shadow/images/04_chrono-shadow.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Men_s_Clasicio_Astronova_Collection_watch_Chrono_Shadow_edition_black_dial_and_stainless_steel_chronograph..png?v=1776347529"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

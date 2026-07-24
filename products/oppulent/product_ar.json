@@ -1,0 +1,70 @@
+{
+  "id": 7506768691373,
+  "handle": "oppulent",
+  "title": "كريمسون نوار",
+  "title_en": "Crimson Noire",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أوبولنت"
+  ],
+  "categories_en": [
+    "OPULENT"
+  ],
+  "url": "https://clasicowatches.com/products/oppulent",
+  "description_text": "افرض حضورك. صُنِعت كريمسون نوار لمن يمضون في الحياة بثقة. مدفوعةً بعيار إيليت Y121، فإنها ليست مجرّد ساعة، بل أداة دقة. يكشف مينائها الهيكلي عن حركة الكرونوغراف المعقّدة بست عقارب، محاطةً بهيكلٍ من العقيق الداكن ولمساتٍ قرمزية جريئة.\n\nلماذا تتميّز:\nدقة النخبة: في قلبها ينبض عيار إيليت Y121، لضمان توقيتٍ لا تشوبه شائبة.\nكرونوغراف عملي: حركة حقيقية بست عقارب تمنحك تحكّماً كاملاً بالوقت لا مجرّد مظهر.\nمصمّمة للطموح: يخلق الميناء الأسود الكربوني المتباين مع اللمسات القرمزية الجريئة مظهر القوة والإصرار.\nبناء متين: غطاء خلفي من الفولاذ المقاوم للصدأ الفاخر لمتانةٍ وراحةٍ دائمة.",
+  "body_html": "<div dir=\"rtl\"><p>افرض حضورك. صُنِعت كريمسون نوار لمن يمضون في الحياة بثقة. مدفوعةً بعيار إيليت Y121، فإنها ليست مجرّد ساعة، بل أداة دقة. يكشف مينائها الهيكلي عن حركة الكرونوغراف المعقّدة بست عقارب، محاطةً بهيكلٍ من العقيق الداكن ولمساتٍ قرمزية جريئة.</p><p>لماذا تتميّز:<br>دقة النخبة: في قلبها ينبض عيار إيليت Y121، لضمان توقيتٍ لا تشوبه شائبة.<br>كرونوغراف عملي: حركة حقيقية بست عقارب تمنحك تحكّماً كاملاً بالوقت لا مجرّد مظهر.<br>مصمّمة للطموح: يخلق الميناء الأسود الكربوني المتباين مع اللمسات القرمزية الجريئة مظهر القوة والإصرار.<br>بناء متين: غطاء خلفي من الفولاذ المقاوم للصدأ الفاخر لمتانةٍ وراحةٍ دائمة.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 42740526678189,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1582004",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "199.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7506768691373,
+      "created_at": "2024-02-05T21:41:10+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/oppulent/images/01_oppulent.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Crimson_Noire_luxury_watch_featuring_a_bold_carbon_black_square_face_with_crimson_red_accents_and_a_premium_red_silicone_strap..png?v=1776362376"
+    },
+    {
+      "file": "../../../clasico_scrape/products/oppulent/images/02_oppulent.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Side_view_of_the_Opulent_Collection_Crimson_Noire_by_Clasicio_showcasing_the_polished_alloy_case_and_industrial_chronograph_pushers..png?v=1776362404"
+    },
+    {
+      "file": "../../../clasico_scrape/products/oppulent/images/03_oppulent.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Crimson_Noire_dial_highlighting_the_Elite_Y121_caliber_movement_and_the_intricate_six-hand_chronograph_layout..png?v=1776362425"
+    },
+    {
+      "file": "../../../clasico_scrape/products/oppulent/images/04_oppulent.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Professional_reverse-angle_shot_of_the_Crimson_Noire_watch_showcasing_the_premium_stainless_steel_back_cover_and_water-resistant_construction..png?v=1776362443"
+    },
+    {
+      "file": "../../../clasico_scrape/products/oppulent/images/05_oppulent.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/4.2.png?v=1762526445"
+    }
+  ],
+  "price_min": 199.0,
+  "language": "ar"
+}

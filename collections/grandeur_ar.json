@@ -1,0 +1,13 @@
+{
+  "handle": "grandeur",
+  "title": "غراندير",
+  "title_en": "GRANDEUR",
+  "products_count": 5,
+  "product_handles": [
+    "grandeur-blue",
+    "grandeur-silver",
+    "grandeur-copper",
+    "grandeur-rose-gold",
+    "grandeur-black"
+  ]
+}

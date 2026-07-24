@@ -1,0 +1,66 @@
+{
+  "id": 8491733287085,
+  "handle": "safra",
+  "title": "صفراء",
+  "title_en": "Safra",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "دَور"
+  ],
+  "categories_en": [
+    "DAWR"
+  ],
+  "url": "https://clasicowatches.com/products/safra",
+  "description_text": "تلتقط صفراء حرارة شمس الظهيرة. جريئةٌ، مفعمةٌ بالطاقة، ويستحيل تجاهلها. مُصمَّمة للعقل المبدع الذي يرفض الذوبان في الخلفية، تضفي هذه الميناء البرتقالية النابضة دفقةً من الأدرينالين على معصمك. إنها ليست مجرّد لون، بل إعلانُ ثقة.",
+  "body_html": "<div dir=\"rtl\"><p>تلتقط صفراء حرارة شمس الظهيرة. جريئةٌ، مفعمةٌ بالطاقة، ويستحيل تجاهلها. مُصمَّمة للعقل المبدع الذي يرفض الذوبان في الخلفية، تضفي هذه الميناء البرتقالية النابضة دفقةً من الأدرينالين على معصمك. إنها ليست مجرّد لون، بل إعلانُ ثقة.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45715314409645,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "EM880M13002",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "129.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8491733287085,
+      "created_at": "2026-02-05T17:19:09+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/safra/images/01_safra.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Safra_watch_with_a_warm_peach_dial_silver_Arabic_numerals_and_a_silver_stainless_steel_integrated_band..png?v=1776351139"
+    },
+    {
+      "file": "../../../clasico_scrape/products/safra/images/02_safra.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Silver_Safra_watch_by_Clasicio_from_the_Dawr_Collection_showcasing_the_brushed_stainless_steel_finish_and_date_window..png?v=1776351152"
+    },
+    {
+      "file": "../../../clasico_scrape/products/safra/images/03_safra.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Safra_s_peach-colored_dial_with_elegant_silver_Arabic_calligraphy_indices_and_Elite_Y121_movement..png?v=1776351165"
+    },
+    {
+      "file": "../../../clasico_scrape/products/safra/images/04_safra.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-proof_Clasicio_Safra_watch_in_premium_stainless_steel_with_a_sophisticated_durable_case_design..png?v=1776351181"
+    }
+  ],
+  "price_min": 129.0,
+  "language": "ar"
+}

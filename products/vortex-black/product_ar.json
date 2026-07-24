@@ -1,0 +1,62 @@
+{
+  "id": 8223450824877,
+  "handle": "vortex-black",
+  "title": "فورتكس بلاك",
+  "title_en": "Vortex Black",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "فورتكس"
+  ],
+  "categories_en": [
+    "VORTEX"
+  ],
+  "url": "https://clasicowatches.com/products/vortex-black",
+  "description_text": "داكنةٌ، آسرة، مطلقة. تحوّل فورتكس بلاك الطاقة الخام للدقة إلى درعٍ من فولاذ منتصف الليل. تحت سطحها العقيقي تكمن عاصفةٌ من الحركة — كل نبضة كرونوغراف إعلانٌ للانضباط والسيطرة. إنها فخامةٌ بلا تكلّف — صُنِعت لمن يفضّلون انتصاراتهم صامتة، وحركاتهم دقيقة، وطموحاتهم بلا حدود.",
+  "body_html": "<div dir=\"rtl\"><p>داكنةٌ، آسرة، مطلقة. تحوّل فورتكس بلاك الطاقة الخام للدقة إلى درعٍ من فولاذ منتصف الليل. تحت سطحها العقيقي تكمن عاصفةٌ من الحركة — كل نبضة كرونوغراف إعلانٌ للانضباط والسيطرة. إنها فخامةٌ بلا تكلّف — صُنِعت لمن يفضّلون انتصاراتهم صامتة، وحركاتهم دقيقة، وطموحاتهم بلا حدود.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44601840861357,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL4171002",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8223450824877,
+      "created_at": "2025-06-20T10:28:06+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/vortex-black/images/01_vortex-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Vortex_Black_chronograph_watch_from_the_Vortex_Collection_featuring_a_sleek_black_dial_and_matching_midnight_steel_stainless_steel_bracelet..png?v=1776359023"
+    },
+    {
+      "file": "../../../clasico_scrape/products/vortex-black/images/02_vortex-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Side_view_of_the_Vortex_Black_watch_by_Clasicio_showcasing_the_polished_obsidian-surface_case_and_precision_six-hand_stopwatch_movement..png?v=1776359042"
+    },
+    {
+      "file": "../../../clasico_scrape/products/vortex-black/images/03_vortex-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Vortex_Black_s_multi-dial_face_highlighting_the_premium_stainless_steel_back_cover_and_detailed_chronograph_markers..png?v=1776359057"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}

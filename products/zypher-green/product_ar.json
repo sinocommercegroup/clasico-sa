@@ -1,0 +1,54 @@
+{
+  "id": 8223450661037,
+  "handle": "zypher-green",
+  "title": "زفير جرين",
+  "title_en": "Green",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "زفير"
+  ],
+  "categories_en": [
+    "ZYPHER"
+  ],
+  "url": "https://clasicowatches.com/products/zypher-green",
+  "description_text": "مستوحاةً من الصلابة، تمزج زفير جرين هدوء الطبيعة بطاقة الحركة. تعكس درجاتها الزمرّدية عقلية القادة الذين يزدهرون تحت الضغط — ثابتون، استراتيجيون، لا يُوقَفون. يعكس الهيكل الداكن الدقيق قوةً محكومةً بإتقان. الأمر لا يتعلّق بأن تبرز، بل بأن تثبت.",
+  "body_html": "<div dir=\"rtl\"><p>مستوحاةً من الصلابة، تمزج زفير جرين هدوء الطبيعة بطاقة الحركة. تعكس درجاتها الزمرّدية عقلية القادة الذين يزدهرون تحت الضغط — ثابتون، استراتيجيون، لا يُوقَفون. يعكس الهيكل الداكن الدقيق قوةً محكومةً بإتقان. الأمر لا يتعلّق بأن تبرز، بل بأن تثبت.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44601839124653,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1149003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8223450661037,
+      "created_at": "2025-06-20T10:24:38+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/zypher-green/images/01_zypher-green.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Zypher_Green_chronograph_watch_featuring_a_modern_square_face_with_a_forest_green_and_gold_dial_on_a_premium_black_silicone_strap..png?v=1776359786"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}

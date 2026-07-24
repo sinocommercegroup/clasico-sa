@@ -1,0 +1,62 @@
+{
+  "id": 8174653145261,
+  "handle": "vortex",
+  "title": "فورتكس جولد",
+  "title_en": "Vortex Gold",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "فورتكس"
+  ],
+  "categories_en": [
+    "VORTEX"
+  ],
+  "url": "https://clasicowatches.com/products/vortex",
+  "description_text": "سيمفونيةٌ من التألّق والهيمنة. تُشعّ فورتكس جولد سلطةً بامتزاج الذهب والفولاذ — تذكيرٌ بأن القوة الحقيقية لا تذوب في المحيط، بل تنفرد عنه. يستحضر مينائها المعقّد ونقوش خلية النحل عمارة القوة، بينما تشقّ اللمسات الحمراء التصميم كشراراتٍ من الحيوية. هذه ليست ساعةً للحذرين، بل بيانٌ لمن استحقّوا الأضواء — جريئون، لا يهدأون، لا يُنسَون.",
+  "body_html": "<div dir=\"rtl\"><p>سيمفونيةٌ من التألّق والهيمنة. تُشعّ فورتكس جولد سلطةً بامتزاج الذهب والفولاذ — تذكيرٌ بأن القوة الحقيقية لا تذوب في المحيط، بل تنفرد عنه. يستحضر مينائها المعقّد ونقوش خلية النحل عمارة القوة، بينما تشقّ اللمسات الحمراء التصميم كشراراتٍ من الحيوية. هذه ليست ساعةً للحذرين، بل بيانٌ لمن استحقّوا الأضواء — جريئون، لا يهدأون، لا يُنسَون.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44437693464749,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL4171001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8174653145261,
+      "created_at": "2025-05-07T09:21:04+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/vortex/images/01_vortex.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Vortex_Gold_luxury_chronograph_watch_featuring_a_42mm_black_and_gold-tone_dial_with_a_premium_stainless_steel_link_strap..png?v=1776360965"
+    },
+    {
+      "file": "../../../clasico_scrape/products/vortex/images/02_vortex.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Side_view_of_the_Vortex_Gold_watch_by_Clasicio_showcasing_the_polished_alloy_case_and_the_sophisticated_six-hand_chronograph_movement..png?v=1776360979"
+    },
+    {
+      "file": "../../../clasico_scrape/products/vortex/images/03_vortex.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Vortex_Gold_watch_face_highlighting_the_scratch-resistant_Hardlex_crystal_and_intricate_three-subdial_layout..png?v=1776360992"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}

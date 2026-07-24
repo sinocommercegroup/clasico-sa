@@ -1,0 +1,54 @@
+{
+  "id": 8202992320685,
+  "handle": "grandeur-blue",
+  "title": "غراندير إمبيريوم",
+  "title_en": "Grandeur Imperium",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "غراندير"
+  ],
+  "categories_en": [
+    "GRANDEUR"
+  ],
+  "url": "https://clasicowatches.com/products/grandeur-blue",
+  "description_text": "الغطاء الخلفي: فولاذ مقاوم للصدأ فاخر\nاللون: أزرق\nلون الميناء: أزرق\nمقاومة الماء: تصميم متطور مقاوم للماء\nالكرونوغراف: حركة كرونوغراف بست عقارب – ساعة إيقاف\nالحركة: عيار إيليت Y121",
+  "body_html": "<div dir=\"rtl\"><p>الغطاء الخلفي: فولاذ مقاوم للصدأ فاخر<br>اللون: أزرق<br>لون الميناء: أزرق<br>مقاومة الماء: تصميم متطور مقاوم للماء<br>الكرونوغراف: حركة كرونوغراف بست عقارب – ساعة إيقاف<br>الحركة: عيار إيليت Y121</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44538419970221,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1584M1002",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8202992320685,
+      "created_at": "2025-06-03T13:34:47+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/grandeur-blue/images/01_grandeur-blue.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Grandeur_Imperium_luxury_watch_featuring_a_42mm_royal_blue_case_with_gold_accents_and_a_sophisticated_multi-dial_face..png?v=1776360158"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}

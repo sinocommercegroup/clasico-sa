@@ -1,0 +1,66 @@
+{
+  "id": 8491733254317,
+  "handle": "layl",
+  "title": "ليل",
+  "title_en": "Layl",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "دَور"
+  ],
+  "categories_en": [
+    "DAWR"
+  ],
+  "url": "https://clasicowatches.com/products/layl",
+  "description_text": "ليل هو سكون منتصف الليل. سوادٌ كامل. لا مشتّتات ولا ضجيج — تركيزٌ خالصٌ ومتزن. للرجل الذي يبدع حين ينام العالم، تقدّم هذه الساعة إطلالةً أنيقةً غامضة تنسجم مع كل شيء، وتبدو كلا شيءٍ آخر.",
+  "body_html": "<div dir=\"rtl\"><p>ليل هو سكون منتصف الليل. سوادٌ كامل. لا مشتّتات ولا ضجيج — تركيزٌ خالصٌ ومتزن. للرجل الذي يبدع حين ينام العالم، تقدّم هذه الساعة إطلالةً أنيقةً غامضة تنسجم مع كل شيء، وتبدو كلا شيءٍ آخر.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45715314376877,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "EM880M13005",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "129.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8491733254317,
+      "created_at": "2026-02-05T17:18:48+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/layl/images/01_layl.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Layl_watch_with_a_deep_black_dial_silver_Arabic_numerals_and_a_premium_silver_stainless_steel_integrated_band..png?v=1776351323"
+    },
+    {
+      "file": "../../../clasico_scrape/products/layl/images/02_layl.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Silver_Layl_watch_by_Clasicio_from_the_Dawr_Collection_showcasing_the_seamless_integrated_bracelet_and_date_window..png?v=1776351347"
+    },
+    {
+      "file": "../../../clasico_scrape/products/layl/images/03_layl.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Layl_s_midnight_black_dial_with_elegant_silver_Arabic_calligraphy_indices_and_Elite_Y121_movement..png?v=1776351372"
+    },
+    {
+      "file": "../../../clasico_scrape/products/layl/images/04_layl.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-proof_Clasicio_Layl_watch_in_brushed_stainless_steel_with_a_high-end_sophisticated_case_finish..png?v=1776351384"
+    }
+  ],
+  "price_min": 129.0,
+  "language": "ar"
+}

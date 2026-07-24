@@ -1,0 +1,66 @@
+{
+  "id": 8601929449645,
+  "handle": "caedryn",
+  "title": "كايدرين",
+  "title_en": "CAEDRYN",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "مونارك"
+  ],
+  "categories_en": [
+    "MONARCH"
+  ],
+  "url": "https://clasicowatches.com/products/caedryn",
+  "description_text": "تتميّز كايدرين بثقةٍ هادئة وبساطةٍ راقية. بهيكلها الفضي، ومينائها الأبيض النقي، وسوارها الجلدي البني الغني، توفّر هذه الساعة توازناً راقياً بين الاحترافية العصرية والأناقة الخالدة. صُمِّم كل تفصيل فيها ليكون خفيّاً ومقصوداً وباقياً.",
+  "body_html": "<div dir=\"rtl\"><p>تتميّز كايدرين بثقةٍ هادئة وبساطةٍ راقية. بهيكلها الفضي، ومينائها الأبيض النقي، وسوارها الجلدي البني الغني، توفّر هذه الساعة توازناً راقياً بين الاحترافية العصرية والأناقة الخالدة. صُمِّم كل تفصيل فيها ليكون خفيّاً ومقصوداً وباقياً.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 46077118382253,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL873M1001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "199.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8601929449645,
+      "created_at": "2026-06-02T21:00:33+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/caedryn/images/01_caedryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/1_5456b9e2-be62-4ced-8632-0c190b6ca7aa.png?v=1780419627"
+    },
+    {
+      "file": "../../../clasico_scrape/products/caedryn/images/02_caedryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/3_fce40f45-bc38-4186-a862-2f3e6a42996e.png?v=1780419626"
+    },
+    {
+      "file": "../../../clasico_scrape/products/caedryn/images/03_caedryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/4_004c2d49-ae64-4e9f-a779-21081441d99f.png?v=1780419626"
+    },
+    {
+      "file": "../../../clasico_scrape/products/caedryn/images/04_caedryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/2_3c311b5e-3289-4a1c-80f8-c3366f659b0b.png?v=1780419627"
+    }
+  ],
+  "price_min": 199.0,
+  "language": "ar"
+}

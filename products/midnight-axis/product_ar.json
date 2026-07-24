@@ -1,0 +1,66 @@
+{
+  "id": 8525436747949,
+  "handle": "midnight-axis",
+  "title": "ميدنايت آكسيس",
+  "title_en": "Midnight Axis",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أسترونوفا"
+  ],
+  "categories_en": [
+    "ASTRONOVA"
+  ],
+  "url": "https://clasicowatches.com/products/midnight-axis",
+  "description_text": "ميدنايت آكسيس هو مركز المدار. مستوحاةً من الاصطفاف الدقيق للمجرّة، يجمع هذا الكرونوغراف ثنائي اللون بين ميناءٍ فضية لامعة وعدّاداتٍ فرعية سوداء عميقة. إنه درسٌ في التوازن لمن يحدّدون إيقاعهم بأنفسهم. بيانٌ فضي وذهبي لا تشوبه شائبة، يرسّخ إرثك.",
+  "body_html": "<div dir=\"rtl\"><p>ميدنايت آكسيس هو مركز المدار. مستوحاةً من الاصطفاف الدقيق للمجرّة، يجمع هذا الكرونوغراف ثنائي اللون بين ميناءٍ فضية لامعة وعدّاداتٍ فرعية سوداء عميقة. إنه درسٌ في التوازن لمن يحدّدون إيقاعهم بأنفسهم. بيانٌ فضي وذهبي لا تشوبه شائبة، يرسّخ إرثك.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45822883397805,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1501M3006",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8525436747949,
+      "created_at": "2026-03-15T20:10:04+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/midnight-axis/images/01_midnight-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Midnight_Axis_chronograph_watch_featuring_a_white_and_black_dial_with_a_two-tone_stainless_steel_band..png?v=1776349205"
+    },
+    {
+      "file": "../../../clasico_scrape/products/midnight-axis/images/02_midnight-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Two-tone_Clasicio_Midnight_Axis_watch_from_the_Astronova_Collection_with_a_black_outer_ring_and_tachymeter_bezel..png?v=1776349222"
+    },
+    {
+      "file": "../../../clasico_scrape/products/midnight-axis/images/03_midnight-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Midnight_Axis_panda_style_white_dial_and_black_sub-dials_powered_by_the_Elite_Y121_caliber_movement..png?v=1776349235"
+    },
+    {
+      "file": "../../../clasico_scrape/products/midnight-axis/images/04_midnight-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-proof_Clasicio_Midnight_Axis_watch_showing_the_premium_stainless_steel_back_cover_and_mixed-metal_bracelet..png?v=1776349251"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

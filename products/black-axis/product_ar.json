@@ -1,0 +1,66 @@
+{
+  "id": 8525437042861,
+  "handle": "black-axis",
+  "title": "بلاك آكسيس",
+  "title_en": "Black Axis",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أسترونوفا"
+  ],
+  "categories_en": [
+    "ASTRONOVA"
+  ],
+  "url": "https://clasicowatches.com/products/black-axis",
+  "description_text": "بلاك آكسيس هي السلطة الهادئة. مستوحاةً من الصفر المطلق لفراغ الكون، يأتي هذا الكرونوغراف الأسود بالكامل خفيّاً ومهيمناً. إنه أداة دقةٍ لمن يعملون في الظل ويفرضون شروطهم الخاصة. بيانٌ من العقيق الأسود لا تشوبه شائبة، يسيطر على المكان دون صوت.",
+  "body_html": "<div dir=\"rtl\"><p>بلاك آكسيس هي السلطة الهادئة. مستوحاةً من الصفر المطلق لفراغ الكون، يأتي هذا الكرونوغراف الأسود بالكامل خفيّاً ومهيمناً. إنه أداة دقةٍ لمن يعملون في الظل ويفرضون شروطهم الخاصة. بيانٌ من العقيق الأسود لا تشوبه شائبة، يسيطر على المكان دون صوت.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45822884249773,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1501M3003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8525437042861,
+      "created_at": "2026-03-15T20:11:21+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/black-axis/images/01_black-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Black_Axis_chronograph_watch_with_silver_stainless_steel_band_and_black_dial_Astronova_Collection..png?v=1776348549"
+    },
+    {
+      "file": "../../../clasico_scrape/products/black-axis/images/02_black-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Silver_Clasicio_Black_Axis_watch_featuring_a_premium_stainless_steel_back_cover_and_Elite_Y121_caliber_movement..png?v=1776348566"
+    },
+    {
+      "file": "../../../clasico_scrape/products/black-axis/images/03_black-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Black_Axis_watch_face_showing_the_black_outer_ring_and_three-dial_chronograph_stopwatch_display..png?v=1776348590"
+    },
+    {
+      "file": "../../../clasico_scrape/products/black-axis/images/04_black-axis.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Black_Axis_water-proof_silver_watch_with_a_durable_stainless_steel_finish_and_tachymeter_bezel..png?v=1776348612"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

@@ -1,0 +1,126 @@
+[
+  {
+    "handle": "astronova",
+    "title": "أسترونوفا",
+    "title_en": "ASTRONOVA",
+    "products_count": 7,
+    "product_handles": [
+      "frost-chrono",
+      "midnight-steel",
+      "midnight-axis",
+      "dynasty-gold",
+      "black-axis",
+      "artic-royale",
+      "chrono-shadow"
+    ]
+  },
+  {
+    "handle": "dawr-collection",
+    "title": "دَور",
+    "title_en": "DAWR",
+    "products_count": 5,
+    "product_handles": [
+      "fayrouz",
+      "layl",
+      "noor",
+      "safra",
+      "bahr"
+    ]
+  },
+  {
+    "handle": "dawr-copy",
+    "title": "زفير",
+    "title_en": "ZYPHER",
+    "products_count": 4,
+    "product_handles": [
+      "zypher-green",
+      "zypher-red",
+      "zypher-gold",
+      "zypher"
+    ]
+  },
+  {
+    "handle": "endurance-ultra",
+    "title": "إندورانس ألترا",
+    "title_en": "Endurance Ultra",
+    "products_count": 0,
+    "product_handles": []
+  },
+  {
+    "handle": "endurance",
+    "title": "إندورانس",
+    "title_en": "Endurance",
+    "products_count": 0,
+    "product_handles": []
+  },
+  {
+    "handle": "grandeur",
+    "title": "غراندير",
+    "title_en": "GRANDEUR",
+    "products_count": 5,
+    "product_handles": [
+      "grandeur-blue",
+      "grandeur-silver",
+      "grandeur-copper",
+      "grandeur-rose-gold",
+      "grandeur-black"
+    ]
+  },
+  {
+    "handle": "monarch",
+    "title": "مونارك",
+    "title_en": "MONARCH",
+    "products_count": 6,
+    "product_handles": [
+      "valtheron",
+      "ravaryn",
+      "noctryss",
+      "elyndor",
+      "caedryn",
+      "aurevain"
+    ]
+  },
+  {
+    "handle": "obsedian-drive",
+    "title": "أوبسيديان درايف",
+    "title_en": "Obsedian Drive",
+    "products_count": 5,
+    "product_handles": [
+      "obsidian-drive-circuit-breaker",
+      "obsidian-drive-grand-prix-gold",
+      "obsidian-drive-racing-verde",
+      "obsidian-drive-shadow-phantom-copy",
+      "obsedian-drive-black"
+    ]
+  },
+  {
+    "handle": "opulent-collection",
+    "title": "أوبولنت",
+    "title_en": "OPULENT",
+    "products_count": 4,
+    "product_handles": [
+      "opulent-black",
+      "oppulent",
+      "opulent-green",
+      "opulent-blue"
+    ]
+  },
+  {
+    "handle": "vortex",
+    "title": "فورتكس",
+    "title_en": "VORTEX",
+    "products_count": 3,
+    "product_handles": [
+      "vortex-black",
+      "vortex-silver",
+      "vortex"
+    ]
+  },
+  {
+    "handle": "zypher",
+    "title": "زفير",
+    "title_en": "ZYPHER",
+    "products_count": 0,
+    "product_handles": []
+  }
+]

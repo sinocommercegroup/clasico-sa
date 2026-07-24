@@ -1,0 +1,66 @@
+{
+  "id": 8601929351341,
+  "handle": "valtheron",
+  "title": "فالثيرون",
+  "title_en": "VALTHERON",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "مونارك"
+  ],
+  "categories_en": [
+    "MONARCH"
+  ],
+  "url": "https://clasicowatches.com/products/valtheron",
+  "description_text": "مستوحاةً من أناقة السلالات الخالدة، تجمع فالثيرون بين سوارٍ جلدي بني دافئ وهيكلٍ ذهبي اللون وميناءٍ أبيض راقٍ. غنيّةٌ بطابعٍ مستوحى من الإرث، تحمل هذه الساعة سحر الفخامة الكلاسيكية مع بقائها عصريةً بلا تكلّف.",
+  "body_html": "<div dir=\"rtl\"><p>مستوحاةً من أناقة السلالات الخالدة، تجمع فالثيرون بين سوارٍ جلدي بني دافئ وهيكلٍ ذهبي اللون وميناءٍ أبيض راقٍ. غنيّةٌ بطابعٍ مستوحى من الإرث، تحمل هذه الساعة سحر الفخامة الكلاسيكية مع بقائها عصريةً بلا تكلّف.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 46077109993645,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL873M1002",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "199.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8601929351341,
+      "created_at": "2026-06-02T20:59:47+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/valtheron/images/01_valtheron.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/1_9d2a3d0c-52cb-4faa-a84d-f511a924a842.png?v=1780419581"
+    },
+    {
+      "file": "../../../clasico_scrape/products/valtheron/images/02_valtheron.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/3_a9e5cba5-27bf-4bea-aee9-6bbb4bb30839.png?v=1780419581"
+    },
+    {
+      "file": "../../../clasico_scrape/products/valtheron/images/03_valtheron.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/4_7cd2248b-b21d-4604-9a7a-18515ff5f2cd.png?v=1780419581"
+    },
+    {
+      "file": "../../../clasico_scrape/products/valtheron/images/04_valtheron.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/2_7411755d-8dea-463a-85df-d96051243718.png?v=1780419581"
+    }
+  ],
+  "price_min": 199.0,
+  "language": "ar"
+}

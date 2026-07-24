@@ -1,0 +1,66 @@
+{
+  "id": 8525436879021,
+  "handle": "frost-chrono",
+  "title": "فروست كرونو",
+  "title_en": "Frost Chrono",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أسترونوفا"
+  ],
+  "categories_en": [
+    "ASTRONOVA"
+  ],
+  "url": "https://clasicowatches.com/products/frost-chrono",
+  "description_text": "فروست كرونو منارةُ الصفر المطلق. مستوحاةً من الوضوح الحاد لسديمٍ جليدي، يأتي هذا الكرونوغراف الأخضر الزمرّدي لامعاً ثابتاً. إنه أداة دقةٍ لمن يزدهرون تحت الضغط ويرسمون مدارهم الخاص. بيانٌ فضي وأخضر لا تشوبه شائبة، يهيمن على الأفق.",
+  "body_html": "<div dir=\"rtl\"><p>فروست كرونو منارةُ الصفر المطلق. مستوحاةً من الوضوح الحاد لسديمٍ جليدي، يأتي هذا الكرونوغراف الأخضر الزمرّدي لامعاً ثابتاً. إنه أداة دقةٍ لمن يزدهرون تحت الضغط ويرسمون مدارهم الخاص. بيانٌ فضي وأخضر لا تشوبه شائبة، يهيمن على الأفق.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45822883758253,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1501M3005",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8525436879021,
+      "created_at": "2026-03-15T20:10:39+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/frost-chrono/images/01_frost-chrono.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Frost_Chrono_watch_featuring_a_Tiffany_blue_dial_and_chocolate_brown_outer_ring_Astronova_Collection..png?v=1776348898"
+    },
+    {
+      "file": "../../../clasico_scrape/products/frost-chrono/images/02_frost-chrono.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Silver_stainless_steel_Frost_Chrono_watch_by_Clasicio_with_Elite_Y121_caliber_stopwatch_movement..png?v=1776348910"
+    },
+    {
+      "file": "../../../clasico_scrape/products/frost-chrono/images/03_frost-chrono.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Tiffany_blue_chronograph_dial_and_chocolate_tachymeter_bezel_on_the_Clasicio_Frost_Chrono..png?v=1776348953"
+    },
+    {
+      "file": "../../../clasico_scrape/products/frost-chrono/images/04_frost-chrono.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-proof_Clasicio_Frost_Chrono_silver_watch_with_premium_stainless_steel_back_cover_and_three-link_bracelet..png?v=1776348972"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

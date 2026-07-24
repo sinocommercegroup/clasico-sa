@@ -1,0 +1,66 @@
+{
+  "id": 8525437141165,
+  "handle": "midnight-steel",
+  "title": "ميدنايت ستيل",
+  "title_en": "Midnight Steel",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أسترونوفا"
+  ],
+  "categories_en": [
+    "ASTRONOVA"
+  ],
+  "url": "https://clasicowatches.com/products/midnight-steel",
+  "description_text": "ميدنايت ستيل هو قلب الآلة. مستوحاةً من البنى الصلبة لمحطات الفضاء العميق، يأتي هذا الكرونوغراف الفضي والكحلي صلباً آسراً. إنه أداة تحمّلٍ لمن يشقّون طريقهم بأنفسهم ويحدّدون إيقاعهم. بيانٌ معدني لا تشوبه شائبة، يرسّخ عزيمتك.",
+  "body_html": "<div dir=\"rtl\"><p>ميدنايت ستيل هو قلب الآلة. مستوحاةً من البنى الصلبة لمحطات الفضاء العميق، يأتي هذا الكرونوغراف الفضي والكحلي صلباً آسراً. إنه أداة تحمّلٍ لمن يشقّون طريقهم بأنفسهم ويحدّدون إيقاعهم. بيانٌ معدني لا تشوبه شائبة، يرسّخ عزيمتك.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45822884479149,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1501M3007",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8525437141165,
+      "created_at": "2026-03-15T20:11:55+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/midnight-steel/images/01_midnight-steel.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Midnight_Steel_chronograph_watch_by_Clasicio_featuring_a_black_dial_and_two-tone_stainless_steel_band_from_the_Astronova_Collection..png?v=1776348002"
+    },
+    {
+      "file": "../../../clasico_scrape/products/midnight-steel/images/02_midnight-steel.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Midnight_Steel_watch_with_premium_stainless_steel_back_cover_and_Elite_Y121_caliber_stopwatch_movement..png?v=1776348017"
+    },
+    {
+      "file": "../../../clasico_scrape/products/midnight-steel/images/03_midnight-steel.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_black_outer_ring_and_chronograph_sub-dials_on_the_Clasicio_Midnight_Steel_two-tone_watch..png?v=1776348119"
+    },
+    {
+      "file": "../../../clasico_scrape/products/midnight-steel/images/04_midnight-steel.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Two-tone_premium_stainless_steel_bracelet_of_the_Midnight_Steel_watch_in_the_Clasicio_Astronova_Collection..png?v=1776348133"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

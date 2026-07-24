@@ -1,0 +1,66 @@
+{
+  "id": 8525436485805,
+  "handle": "dynasty-gold",
+  "title": "دايناستي جولد",
+  "title_en": "Dynasty Gold",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أسترونوفا"
+  ],
+  "categories_en": [
+    "ASTRONOVA"
+  ],
+  "url": "https://clasicowatches.com/products/dynasty-gold",
+  "description_text": "دايناستي جولد هي جوهرة تاج الكون. مستوحاةً من الوهج الأبدي لإمبراطوريةٍ شمسية، يأتي هذا الكرونوغراف ثنائي اللون آسِراً لا يُنسى. إنه تأكيدٌ للقوة لمن لا يقيسون الوقت فحسب، بل يحكمونه. بيانٌ أسود وذهبي لا تشوبه شائبة، يرسّخ إرثك.",
+  "body_html": "<div dir=\"rtl\"><p>دايناستي جولد هي جوهرة تاج الكون. مستوحاةً من الوهج الأبدي لإمبراطوريةٍ شمسية، يأتي هذا الكرونوغراف ثنائي اللون آسِراً لا يُنسى. إنه تأكيدٌ للقوة لمن لا يقيسون الوقت فحسب، بل يحكمونه. بيانٌ أسود وذهبي لا تشوبه شائبة، يرسّخ إرثك.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45822881235117,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1501M3004",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8525436485805,
+      "created_at": "2026-03-15T20:08:42+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/dynasty-gold/images/01_dynasty-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Dynasty_chronograph_watch_with_a_premium_stainless_steel_bracelet_and_tachymeter_bezel_Astronova_Collection..png?v=1776349453"
+    },
+    {
+      "file": "../../../clasico_scrape/products/dynasty-gold/images/02_dynasty-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Side_view_of_the_Clasicio_Dynasty_watch_showing_the_polished_stainless_steel_case_and_chronograph_pushers..png?v=1776349478"
+    },
+    {
+      "file": "../../../clasico_scrape/products/dynasty-gold/images/03_dynasty-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Dynasty_watch_face_by_Clasicio_featuring_the_signature_Astronova_Collection_sub-dials_and_Elite_Y121_caliber_movement..png?v=1776349495"
+    },
+    {
+      "file": "../../../clasico_scrape/products/dynasty-gold/images/04_dynasty-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Back_view_of_the_water-proof_Clasicio_Dynasty_watch_highlighting_the_premium_stainless_steel_back_cover..png?v=1776349509"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

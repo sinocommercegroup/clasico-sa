@@ -1,0 +1,66 @@
+{
+  "id": 8601930662061,
+  "handle": "ravaryn",
+  "title": "رافارين",
+  "title_en": "RAVARYN",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "مونارك"
+  ],
+  "categories_en": [
+    "MONARCH"
+  ],
+  "url": "https://clasicowatches.com/products/ravaryn",
+  "description_text": "جريئةٌ، آسرة، وراقيةٌ بلا اعتذار، تقف رافارين تعبيراً رائداً عن مجموعة مونارك. يخلق الميناء الأسود المقترن بهيكلٍ ذهبي اللون تبايناً قوياً يعكس الطموح والهيمنة والذوق الرفيع. مزيّنةً بسوارٍ جلدي أسود، صُمِّمت هذه القطعة لتترك انطباعاً باقياً في كل المواقف.",
+  "body_html": "<div dir=\"rtl\"><p>جريئةٌ، آسرة، وراقيةٌ بلا اعتذار، تقف رافارين تعبيراً رائداً عن مجموعة مونارك. يخلق الميناء الأسود المقترن بهيكلٍ ذهبي اللون تبايناً قوياً يعكس الطموح والهيمنة والذوق الرفيع. مزيّنةً بسوارٍ جلدي أسود، صُمِّمت هذه القطعة لتترك انطباعاً باقياً في كل المواقف.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 46077154656429,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL873M1004",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "199.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8601930662061,
+      "created_at": "2026-06-02T21:01:29+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/ravaryn/images/01_ravaryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/1_184f3552-01dc-4cb4-9be7-dcf67d1f392f.png?v=1780419678"
+    },
+    {
+      "file": "../../../clasico_scrape/products/ravaryn/images/02_ravaryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/3_09992183-542e-44cd-937d-637a5e430cf3.png?v=1780419678"
+    },
+    {
+      "file": "../../../clasico_scrape/products/ravaryn/images/03_ravaryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/4_f60a901b-53dc-434b-b234-263de56eed4c.png?v=1780419678"
+    },
+    {
+      "file": "../../../clasico_scrape/products/ravaryn/images/04_ravaryn.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/2_5e3ff546-1c9d-4d58-8bb6-25a02a2b70b0.png?v=1780419679"
+    }
+  ],
+  "price_min": 199.0,
+  "language": "ar"
+}

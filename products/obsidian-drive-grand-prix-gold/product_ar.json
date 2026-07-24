@@ -1,0 +1,66 @@
+{
+  "id": 8487403290797,
+  "handle": "obsidian-drive-grand-prix-gold",
+  "title": "جراند بري جولد",
+  "title_en": "Grand Prix Gold",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أوبسيديان درايف"
+  ],
+  "categories_en": [
+    "Obsedian Drive"
+  ],
+  "url": "https://clasicowatches.com/products/obsidian-drive-grand-prix-gold",
+  "description_text": "أوبسيديان درايف بإصدار جراند بري جولد هو الرمز الأسمى لحلقة المنتصرين. مُصمَّم لمتصدّر السباق، تفرض هذه اللمسة الذهبية الكاملة الانتباه وتعلن الفوز قبل أن ينطلق السباق. إنها ليست مجرّد ساعة، بل كأسٌ على المعصم. ارتدِها حين تكون مستعداً لتُظهر للعالم موقعك تماماً: في المقدمة.",
+  "body_html": "<div dir=\"rtl\"><p>أوبسيديان درايف بإصدار جراند بري جولد هو الرمز الأسمى لحلقة المنتصرين. مُصمَّم لمتصدّر السباق، تفرض هذه اللمسة الذهبية الكاملة الانتباه وتعلن الفوز قبل أن ينطلق السباق. إنها ليست مجرّد ساعة، بل كأسٌ على المعصم. ارتدِها حين تكون مستعداً لتُظهر للعالم موقعك تماماً: في المقدمة.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45699880714413,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1582M2003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8487403290797,
+      "created_at": "2026-01-30T19:08:39+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/obsidian-drive-grand-prix-gold/images/01_obsidian-drive-grand-prix-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Grand_Prix_Gold_chronograph_watch_from_the_Obsidian_Drive_Astronova_Collection_featuring_a_42mm_multi-dial_face_with_gold_and_green_accents..png?v=1776352574"
+    },
+    {
+      "file": "../../../clasico_scrape/products/obsidian-drive-grand-prix-gold/images/02_obsidian-drive-grand-prix-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Industrial_black_Clasicio_Grand_Prix_Gold_watch_showing_the_polished_alloy_case_and_sophisticated_chronograph_pushers..png?v=1776352589"
+    },
+    {
+      "file": "../../../clasico_scrape/products/obsidian-drive-grand-prix-gold/images/03_obsidian-drive-grand-prix-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Grand_Prix_Gold_dial_highlighting_the_scratch-resistant_Hardlex_crystal_and_precision_quartz_movement..png?v=1776352603"
+    },
+    {
+      "file": "../../../clasico_scrape/products/obsidian-drive-grand-prix-gold/images/04_obsidian-drive-grand-prix-gold.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-resistant_Clasicio_Grand_Prix_Gold_watch_with_a_premium_22mm_black_strap_and_12mm_case_thickness..png?v=1776352616"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

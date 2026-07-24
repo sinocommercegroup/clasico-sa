@@ -1,0 +1,54 @@
+{
+  "id": 8202992124077,
+  "handle": "grandeur-silver",
+  "title": "غراندير دومينيون",
+  "title_en": "Grandeur Dominion",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "غراندير"
+  ],
+  "categories_en": [
+    "GRANDEUR"
+  ],
+  "url": "https://clasicowatches.com/products/grandeur-silver",
+  "description_text": "الغطاء الخلفي: فولاذ مقاوم للصدأ فاخر\nاللون: فضي\nلون الميناء: أسود\nمقاومة الماء: تصميم متطور مقاوم للماء\nالكرونوغراف: حركة كرونوغراف بست عقارب – ساعة إيقاف\nالحركة: عيار إيليت Y121",
+  "body_html": "<div dir=\"rtl\"><p>الغطاء الخلفي: فولاذ مقاوم للصدأ فاخر<br>اللون: فضي<br>لون الميناء: أسود<br>مقاومة الماء: تصميم متطور مقاوم للماء<br>الكرونوغراف: حركة كرونوغراف بست عقارب – ساعة إيقاف<br>الحركة: عيار إيليت Y121</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44538418954413,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1584M1001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8202992124077,
+      "created_at": "2025-06-03T13:33:21+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/grandeur-silver/images/01_grandeur-silver.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Grandeur_Dominion_luxury_watch_featuring_a_bold_black_42mm_case_with_gold-tone_accents_and_a_sophisticated_multi-dial_face..png?v=1776360355"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}

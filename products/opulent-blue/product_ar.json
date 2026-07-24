@@ -1,0 +1,66 @@
+{
+  "id": 7500369854637,
+  "handle": "opulent-blue",
+  "title": "كوبالت بلو",
+  "title_en": "Cobalt Blue",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أوبولنت"
+  ],
+  "categories_en": [
+    "OPULENT"
+  ],
+  "url": "https://clasicowatches.com/products/opulent-blue",
+  "description_text": "حيث يلتقي العمق بالتألّق. تلتقط كوبالت بلو جوهر الرقيّ في حركته — ساعةٌ تعكس الثقة الهادئة للسماء المفتوحة والامتداد اللامتناهي للطموح. يتوهّج مينائها الهيكلي المعقّد تحت هالةٍ من لمسات الذهب الوردي، كاشفاً رقصةً من التروس لا تتوقّف ولا تخفت. يستقرّ السوار الأزرق العميق على المعصم كمدٍّ هادئ، رزينٌ وآسر في آنٍ واحد. كل نظرةٍ إلى قلبها تستحضر صفاء الإتقان — تذكيرٌ بأن الفخامة الحقيقية لا تكمن في الضجيج، بل في الرقيّ. يخاطب امتزاج الدفء المعدني بالعمق المحيطي من يقودون بوضوحٍ وتوازنٍ وهدف. إنها ليست مجرّد كرونوغراف، بل تناغمٌ بين الأناقة والقوة. من مجموعة أوبولنت، تقف كوبالت بلو تحيّةً لمن يحكمون لا بالصوت بل بالرؤية.\n\nعرض خاص: أضِف 3 إلى السلة وادفع ثمن 2!",
+  "body_html": "<div dir=\"rtl\"><p>حيث يلتقي العمق بالتألّق. تلتقط كوبالت بلو جوهر الرقيّ في حركته — ساعةٌ تعكس الثقة الهادئة للسماء المفتوحة والامتداد اللامتناهي للطموح. يتوهّج مينائها الهيكلي المعقّد تحت هالةٍ من لمسات الذهب الوردي، كاشفاً رقصةً من التروس لا تتوقّف ولا تخفت. يستقرّ السوار الأزرق العميق على المعصم كمدٍّ هادئ، رزينٌ وآسر في آنٍ واحد. كل نظرةٍ إلى قلبها تستحضر صفاء الإتقان — تذكيرٌ بأن الفخامة الحقيقية لا تكمن في الضجيج، بل في الرقيّ. يخاطب امتزاج الدفء المعدني بالعمق المحيطي من يقودون بوضوحٍ وتوازنٍ وهدف. إنها ليست مجرّد كرونوغراف، بل تناغمٌ بين الأناقة والقوة. من مجموعة أوبولنت، تقف كوبالت بلو تحيّةً لمن يحكمون لا بالصوت بل بالرؤية.</p><p>عرض خاص: أضِف 3 إلى السلة وادفع ثمن 2!</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 42740488962221,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1582005",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "199.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7500369854637,
+      "created_at": "2024-02-05T21:23:59+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/opulent-blue/images/01_opulent-blue.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/6_390ac63c-485e-4026-bab3-617be3546d05.png?v=1762645678"
+    },
+    {
+      "file": "../../../clasico_scrape/products/opulent-blue/images/02_opulent-blue.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Opulent_Website_Blue_2.0.png?v=1762700220"
+    },
+    {
+      "file": "../../../clasico_scrape/products/opulent-blue/images/03_opulent-blue.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Opulent_Website_Blue_1.0.png?v=1762700259"
+    },
+    {
+      "file": "../../../clasico_scrape/products/opulent-blue/images/04_opulent-blue.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Opulent_Website_Blue_3.0.png?v=1762700259"
+    }
+  ],
+  "price_min": 199.0,
+  "language": "ar"
+}

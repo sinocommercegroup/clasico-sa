@@ -1,0 +1,66 @@
+{
+  "id": 8491733745837,
+  "handle": "fayrouz",
+  "title": "فيروز",
+  "title_en": "Fayrouz",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "دَور"
+  ],
+  "categories_en": [
+    "DAWR"
+  ],
+  "url": "https://clasicowatches.com/products/fayrouz",
+  "description_text": "فيروز ومضةُ تألّق. مستوحاةً من حجر الفيروز الأسطوري، تأتي هذه الميناء الفيروزية مميّزةً لا تُنسى. لمسةٌ من اللون النابض لمن لا يتبعون الصيحة، بل يصنعونها. إطلالةٌ نادرة تبرز وسط بحرٍ من الألوان الأحادية.",
+  "body_html": "<div dir=\"rtl\"><p>فيروز ومضةُ تألّق. مستوحاةً من حجر الفيروز الأسطوري، تأتي هذه الميناء الفيروزية مميّزةً لا تُنسى. لمسةٌ من اللون النابض لمن لا يتبعون الصيحة، بل يصنعونها. إطلالةٌ نادرة تبرز وسط بحرٍ من الألوان الأحادية.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45715314868397,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "EM880M13003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "129.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8491733745837,
+      "created_at": "2026-02-05T17:23:24+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/fayrouz/images/01_fayrouz.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Fayrouz_watch_featuring_a_turquoise_dial_with_silver_Arabic_numerals_and_a_silver_stainless_steel_band..png?v=1776350375"
+    },
+    {
+      "file": "../../../clasico_scrape/products/fayrouz/images/02_fayrouz.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Silver_Clasicio_Fayrouz_watch_from_the_Astronova_Collection_showing_the_integrated_bracelet_and_date_window..png?v=1776350392"
+    },
+    {
+      "file": "../../../clasico_scrape/products/fayrouz/images/03_fayrouz.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/CyaClose-up_of_the_Fayrouz_watch_face_with_turquoise_finish_and_elegant_Arabic_calligraphy_indices_Elite_Y121_caliber.3.png?v=1776350411"
+    },
+    {
+      "file": "../../../clasico_scrape/products/fayrouz/images/04_fayrouz.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-proof_Clasicio_Fayrouz_watch_in_premium_stainless_steel_with_a_sophisticated_brushed_metal_finish..png?v=1776350449"
+    }
+  ],
+  "price_min": 129.0,
+  "language": "ar"
+}

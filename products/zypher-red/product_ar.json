@@ -1,0 +1,58 @@
+{
+  "id": 8223450628269,
+  "handle": "zypher-red",
+  "title": "زفير ريد",
+  "title_en": "Red",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "زفير"
+  ],
+  "categories_en": [
+    "ZYPHER"
+  ],
+  "url": "https://clasicowatches.com/products/zypher-red",
+  "description_text": "قوةٌ تتّقد تحت السطح. زفير ريد ليست لمن ينتظرون، بل لمن يتحرّكون أولاً ولا يلتفتون خلفهم. تتسابق اللمسات القرمزية عبر مينائها كخطوط أدرينالين، بينما يرسّخ الهيكل المطفأ طاقتها في توازنٍ ودقة. تبدو كل نبضةٍ كدقّة قلبٍ قبل الانطلاق — جريئة، حيّة، لا تُوقَف.",
+  "body_html": "<div dir=\"rtl\"><p>قوةٌ تتّقد تحت السطح. زفير ريد ليست لمن ينتظرون، بل لمن يتحرّكون أولاً ولا يلتفتون خلفهم. تتسابق اللمسات القرمزية عبر مينائها كخطوط أدرينالين، بينما يرسّخ الهيكل المطفأ طاقتها في توازنٍ ودقة. تبدو كل نبضةٍ كدقّة قلبٍ قبل الانطلاق — جريئة، حيّة، لا تُوقَف.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44601838960813,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1149001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8223450628269,
+      "created_at": "2025-06-20T10:23:47+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/zypher-red/images/01_zypher-red.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Zypher_Red_chronograph_watch_featuring_a_modern_square_face_with_a_vibrant_red_and_black_dial_on_a_premium_black_silicone_strap..png?v=1776359880"
+    },
+    {
+      "file": "../../../clasico_scrape/products/zypher-red/images/02_zypher-red.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/A_sophisticated_product_showcase_of_the_square_Clasicio_Zypher_Red_watch_on_a_models_hand_emphasizing_its_luxury_gold_finish..png?v=1776359920"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}

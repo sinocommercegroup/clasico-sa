@@ -1,0 +1,66 @@
+{
+  "id": 7506762006701,
+  "handle": "opulent-black",
+  "title": "شادو بلاك",
+  "title_en": "Shadow Black",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أوبولنت"
+  ],
+  "categories_en": [
+    "OPULENT"
+  ],
+  "url": "https://clasicowatches.com/products/opulent-black",
+  "description_text": "حيث يلتقي الظلام بالدقة. لم تُصمَّم شادو بلاك لتُرى، بل لتُحَسّ. ساعةٌ وُلِدت من فلسفةٍ مفادها أن القوة الحقيقية تتحرّك في صمت. يخفي هيكلها المطفأ العميق، المصوغ من فولاذ منتصف الليل، سيمفونيةً ميكانيكية تنبض بدقةٍ لا تلين. كل ترسٍ وميناءٍ مكشوف خلف وجهها الهيكلي يهمس ببراعة الهندسة والهيمنة المتزنة. يثبّت السوار المطاطي الساعة كالدرع، مصمّماً لمن يقودون الإمبراطوريات من الخلف — الاستراتيجيون، المهندسون، أصحاب الرؤى الخفيّون. لا بريق هنا، بل حضور. كل خطٍّ وكل ظلٍّ ينطق بالسيطرة لا الفوضى. هذا ليس فخامةً للفت الأنظار، بل فخامةً للقيادة. بيانٌ من مجموعة أوبولنت بأن الرقيّ لا يلمع، بل يمتصّ الضوء ويحوّله إلى سلطةٍ هادئة.\n\nعرض خاص: أضِف 3 إلى السلة وادفع ثمن 2!",
+  "body_html": "<div dir=\"rtl\"><p>حيث يلتقي الظلام بالدقة. لم تُصمَّم شادو بلاك لتُرى، بل لتُحَسّ. ساعةٌ وُلِدت من فلسفةٍ مفادها أن القوة الحقيقية تتحرّك في صمت. يخفي هيكلها المطفأ العميق، المصوغ من فولاذ منتصف الليل، سيمفونيةً ميكانيكية تنبض بدقةٍ لا تلين. كل ترسٍ وميناءٍ مكشوف خلف وجهها الهيكلي يهمس ببراعة الهندسة والهيمنة المتزنة. يثبّت السوار المطاطي الساعة كالدرع، مصمّماً لمن يقودون الإمبراطوريات من الخلف — الاستراتيجيون، المهندسون، أصحاب الرؤى الخفيّون. لا بريق هنا، بل حضور. كل خطٍّ وكل ظلٍّ ينطق بالسيطرة لا الفوضى. هذا ليس فخامةً للفت الأنظار، بل فخامةً للقيادة. بيانٌ من مجموعة أوبولنت بأن الرقيّ لا يلمع، بل يمتصّ الضوء ويحوّله إلى سلطةٍ هادئة.</p><p>عرض خاص: أضِف 3 إلى السلة وادفع ثمن 2!</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 42740507279533,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1582003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "199.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 7506762006701,
+      "created_at": "2024-02-05T21:33:24+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/opulent-black/images/01_opulent-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/4_26a34db7-7bdd-45c2-a78f-b3891d77a49e.png?v=1762645678"
+    },
+    {
+      "file": "../../../clasico_scrape/products/opulent-black/images/02_opulent-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Opulent_Website_Black_2.0.png?v=1762700954"
+    },
+    {
+      "file": "../../../clasico_scrape/products/opulent-black/images/03_opulent-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Opulent_Website_Black_1.0.png?v=1762700954"
+    },
+    {
+      "file": "../../../clasico_scrape/products/opulent-black/images/04_opulent-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Opulent_Website_Black_3.0.png?v=1762699398"
+    }
+  ],
+  "price_min": 199.0,
+  "language": "ar"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 8487390609581,
+  "handle": "obsedian-drive-black",
+  "title": "ميدنايت دريفت",
+  "title_en": "Midnight Drift",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "أوبسيديان درايف"
+  ],
+  "categories_en": [
+    "Obsedian Drive"
+  ],
+  "url": "https://clasicowatches.com/products/obsedian-drive-black",
+  "description_text": "أوبسيديان درايف بإصدار ميدنايت دريفت يتميّز برباطة الجأش في السرعات العالية. مستوحاةً من الأزرق العميق لأفق مدينةٍ في الثانية فجراً، تضفي هذه الساعة طاقةً مركّزة على معصمك. إنها للسائق الذي يجد انسيابه حين يشتدّ الضغط، محافظاً على دقةٍ كهربائية بينما يتلاشى الجميع في مرآته الخلفية.",
+  "body_html": "<div dir=\"rtl\"><p>أوبسيديان درايف بإصدار ميدنايت دريفت يتميّز برباطة الجأش في السرعات العالية. مستوحاةً من الأزرق العميق لأفق مدينةٍ في الثانية فجراً، تضفي هذه الساعة طاقةً مركّزة على معصمك. إنها للسائق الذي يجد انسيابه حين يشتدّ الضغط، محافظاً على دقةٍ كهربائية بينما يتلاشى الجميع في مرآته الخلفية.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 45699860922541,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL1582M2001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "299.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8487390609581,
+      "created_at": "2026-01-30T18:28:52+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/obsedian-drive-black/images/01_obsedian-drive-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Midnight_Drift_chronograph_watch_from_the_Obsidian_Drive_Collection_featuring_a_42mm_deep_blue_multi-dial_face_with_bold_red_and_yellow_accents..png?v=1776358435"
+    },
+    {
+      "file": "../../../clasico_scrape/products/obsedian-drive-black/images/02_obsedian-drive-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Side_view_of_the_Midnight_Drift_watch_by_Clasicio_showcasing_the_polished_alloy_case_and_textured_chronograph_movement_buttons..png?v=1776358456"
+    },
+    {
+      "file": "../../../clasico_scrape/products/obsedian-drive-black/images/03_obsedian-drive-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Detailed_shot_of_the_Midnight_Drift_dial_with_scratch-resistant_Hardlex_crystal_and_intricate_sub-dial_markers..png?v=1776358468"
+    },
+    {
+      "file": "../../../clasico_scrape/products/obsedian-drive-black/images/04_obsedian-drive-black.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Water-resistant_Clasicio_Midnight_Drift_watch_with_a_premium_22mm_black_strap_and_12mm_case_thickness..png?v=1776358480"
+    }
+  ],
+  "price_min": 299.0,
+  "language": "ar"
+}

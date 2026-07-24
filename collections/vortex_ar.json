@@ -1,0 +1,11 @@
+{
+  "handle": "vortex",
+  "title": "فورتكس",
+  "title_en": "VORTEX",
+  "products_count": 3,
+  "product_handles": [
+    "vortex-black",
+    "vortex-silver",
+    "vortex"
+  ]
+}

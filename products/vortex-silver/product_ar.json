@@ -1,0 +1,62 @@
+{
+  "id": 8223450857645,
+  "handle": "vortex-silver",
+  "title": "فورتكس سيلفر",
+  "title_en": "Vortex Silver",
+  "vendor": "Clasico",
+  "product_type": "",
+  "categories": [
+    "فورتكس"
+  ],
+  "categories_en": [
+    "VORTEX"
+  ],
+  "url": "https://clasicowatches.com/products/vortex-silver",
+  "description_text": "خطوطٌ نقية. تألّقٌ بارد. فورتكس سيلفر طاقةٌ خالدة صُقِلت في معدن. يلتقط بريقها الأفق — حادٌّ، عصري، لا متناهٍ. يعكس التعقيد الميكانيكي لمينائها التوازن بين المنطق والاندفاع، بين التصميم والقدر. للرؤيوي العصري، إنها ليست مجرّد ساعة، بل رمزٌ للتطوّر.",
+  "body_html": "<div dir=\"rtl\"><p>خطوطٌ نقية. تألّقٌ بارد. فورتكس سيلفر طاقةٌ خالدة صُقِلت في معدن. يلتقط بريقها الأفق — حادٌّ، عصري، لا متناهٍ. يعكس التعقيد الميكانيكي لمينائها التوازن بين المنطق والاندفاع، بين التصميم والقدر. للرؤيوي العصري، إنها ليست مجرّد ساعة، بل رمزٌ للتطوّر.</p></div>",
+  "options": [
+    {
+      "name": "الخيار",
+      "values": [
+        "افتراضي"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": 44601840992429,
+      "title": "افتراضي",
+      "option1": "افتراضي",
+      "option2": null,
+      "option3": null,
+      "sku": "CL4171003",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "149.00",
+      "grams": 0,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 8223450857645,
+      "created_at": "2025-06-20T10:28:41+04:00",
+      "updated_at": "2026-07-25T00:44:40+04:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "../../../clasico_scrape/products/vortex-silver/images/01_vortex-silver.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Clasicio_Vortex_Silver_chronograph_watch_from_the_Vortex_Collection_featuring_a_bold_black_dial_and_premium_silver_stainless_steel_link_bracelet..png?v=1776358714"
+    },
+    {
+      "file": "../../../clasico_scrape/products/vortex-silver/images/02_vortex-silver.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Side_view_of_the_Vortex_Silver_watch_by_Clasicio_showcasing_the_polished_alloy_case_and_precise_six-hand_stopwatch_movement..png?v=1776358731"
+    },
+    {
+      "file": "../../../clasico_scrape/products/vortex-silver/images/03_vortex-silver.png",
+      "src_url": "https://cdn.shopify.com/s/files/1/0635/0730/0525/files/Close-up_of_the_Vortex_Silver_s_black_dial_with_silver_sub-dials_highlighting_the_premium_stainless_steel_back_cover..png?v=1776358759"
+    }
+  ],
+  "price_min": 149.0,
+  "language": "ar"
+}
